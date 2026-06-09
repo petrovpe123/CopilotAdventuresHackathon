@@ -158,7 +158,6 @@ Use: `New Copilot Adventure: [Your Adventure Name]` for new adventures
 ### Mode-Specific Development
 - **Agent Mode**: Use for autonomous project creation and multi-file coordination
 - **Ask Mode**: Use for step-by-step learning and explanation-driven development
-- **Edit Mode**: Use for iterative improvements and multi-file modifications
 
 ### Best Practices
 - Include actual Copilot prompts used in solution comments

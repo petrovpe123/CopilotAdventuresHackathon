@@ -41,7 +41,6 @@ GitHub Copilot offre tre potenti modalità di interazione:
 
 🤖 **Modalità Agent** - IA autonoma che può comprendere compiti complessi, creare interi progetti da zero e lavorare su più file. Perfetta per costruire applicazioni complete con una guida minima. La modalità Agent può iterare autonomamente sul proprio codice, identificare e correggere automaticamente gli errori ed eseguire comandi terminali.
 
-✏️ **Modalità Edit** - Esperienza di editing multi-file che combina il flusso conversazionale con suggerimenti di codice inline. Copilot Edits può proporre modifiche su più file, creare nuovi file e fornire feedback iterativo veloce per modifiche su larga scala.
 
 💬 **Modalità Ask** - Modalità chat interattiva dove collabori passo dopo passo con Copilot attraverso la conversazione. Ottima per imparare, ottenere spiegazioni, fare brainstorming di soluzioni e quando vuoi più controllo sul processo.
 

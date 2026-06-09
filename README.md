@@ -41,8 +41,6 @@ GitHub Copilot offers three powerful interaction modes:
 
 🤖 **Agent Mode** - Autonomous AI that can understand complex tasks, create entire projects from scratch, and work across multiple files. Perfect for building complete applications with minimal guidance. Agent mode can iterate on its own code, automatically identify and fix errors, and execute terminal commands.
 
-✏️ **Edit Mode** - Multi-file editing experience that combines conversational flow with inline code suggestions. Copilot Edits can propose changes across multiple files, create new files, and provide fast iterative feedback for large-scale modifications.
-
 💬 **Ask Mode** - Interactive chat mode where you collaborate step-by-step with Copilot through conversation. Great for learning, getting explanations, brainstorming solutions, and when you want more control over the process.
 
 ---

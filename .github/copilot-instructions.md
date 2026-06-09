@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-CopilotAdventures is an educational repository containing adventure-themed coding challenges designed to teach developers GitHub Copilot's different interaction modes (Agent, Ask, and Edit). The core concept is fantasy-themed programming puzzles that demonstrate specific Copilot capabilities.
+CopilotAdventures is an educational repository containing adventure-themed coding challenges designed to teach developers GitHub Copilot's different interaction modes (Agent, Ask). The core concept is fantasy-themed programming puzzles that demonstrate specific Copilot capabilities.
 
 ## Architecture & Data Flow
 
