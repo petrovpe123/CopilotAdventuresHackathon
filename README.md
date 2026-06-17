@@ -1,13 +1,10 @@
-<a href="#">
-    <img src="./Images/GitHub Copilot Advenctures.jpg" style="width: 830px;" />
-</a>
 
 Welcome to Copilot Adventures! This series of coding adventures is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code. Let's get started!
 
 ## Choose Your Own Copilot Adventure
 
 <a href="#">
-    <img src="./Images/choose-own-adventure.jpg" style="width: 830px" />
+    <img src="./Images/GitHubCopilotCSU.jpg" style="width: 830px" />
 </a>
 
 ### 1. Enter the Adventure Arena
