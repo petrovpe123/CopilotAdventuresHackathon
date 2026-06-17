@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="./Images/copilot-adventures.jpg" style="width: 830px;" />
+    <img src="./Images/GitHub Copilot Advenctures.jpg" style="width: 830px;" />
 </a>
 
 Welcome to Copilot Adventures! This series of coding adventures is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code. Let's get started!
@@ -49,22 +49,19 @@ GitHub Copilot offers three powerful interaction modes:
 
 *Experience autonomous AI agent development with comprehensive project creation*
 
-#### Beginner Adventures
+#### Player 1: Logic and Simulation
 
-- **[The Clockwork Town of Tempora](./Adventures/Agent/1-Beginner/The-Clockwork-Town-of-Tempora-Agent.md)** - In the mechanical town of Tempora, everything operates on clockwork and precise timing. At the heart of the town is the Grand Clock Tower, responsible for keeping time for all the town's activities. However, over the years, some smaller clocks in the town have started to drift away from the accurate time.
-- **[The Magical Forest of Algora](./Adventures/Agent/1-Beginner/The-Magical-Forest-of-Algora-Agent.md)** - Deep within the enchanted Forest of Algora, two mystical creatures, the Lox and the Faelis, perform a sacred dance every millennium. This dance is not just for celebration but is a ritual to bring balance to the forest.
-- **[The Command Center of Stellaris (Custom Agent Chat Mode)](./Adventures/Agent/1-Beginner/The-Command-Center-of-Stellaris-Agent.md)** - In the galaxy of Stellaris, the Galactic Command Center coordinates missions across star systems using expert AI commanders. A recent upgrade enables custom command protocols, letting commanders activate mission-specific modes with advanced tools and guidance for any challenge.
+- **[The Clockwork Town of Tempora](./Adventures/Agent/Player-1-Logic-and-Simulation/The-Clockwork-Town-of-Tempora-Agent.md)** - In the mechanical town of Tempora, everything operates on clockwork and precise timing. At the heart of the town is the Grand Clock Tower, responsible for keeping time for all the town's activities. However, over the years, some smaller clocks in the town have started to drift away from the accurate time.
+- **[The Legendary Duel of Stonevale](./Adventures/Agent/Player-1-Logic-and-Simulation/The-Legendary-Duel-of-Stonevale-Agent.md)** - In the mystical realm of Stonevale, two warriors, Rok and Papyra, are chosen for a duel that determines the fate of their tribes for the next century. The arena, known as Scissoria, is where each move carries weight and consequences.
+- **[The Celestial Alignment of Lumoria](./Adventures/Agent/Player-1-Logic-and-Simulation/The-Celestial-Alignment-of-Lumoria-Agent.md)** - In the vast expanse of the Galaxia Nebulae, a rare phenomenon is about to occur in the Lumoria star system. The planets, revolving around the Lumorian Sun, are aligning in a celestial dance that happens only once every few millennia. This alignment has a unique effect on how the light from the Lumorian Sun reaches each planet.
+- **[The Gridlock Arena of Mythos](./Adventures/Agent/Player-1-Logic-and-Simulation/The-Gridlock-Arena-of-Mythos-Agent.md)** - In the mystical land of Mythos, creatures from various realms come together to battle in the Gridlock Arena, a chess-like grid where strategy, power, and cunning are tested. Each creature has its unique move, power, and strategy.
 
-#### Intermediate Adventures
+#### Player 2: Parsing, Data, and Systems
 
-- **[The Celestial Alignment of Lumoria](./Adventures/Agent/2-Intermediate/The-Celestial-Alignment-of-Lumoria-Agent.md)** - In the vast expanse of the Galaxia Nebulae, a rare phenomenon is about to occur in the Lumoria star system. The planets, revolving around the Lumorian Sun, are aligning in a celestial dance that happens only once every few millennia. This alignment has a unique effect on how the light from the Lumorian Sun reaches each planet.
-- **[The Legendary Duel of Stonevale](./Adventures/Agent/2-Intermediate/The-Legendary-Duel-of-Stonevale-Agent.md)** - In the mystical realm of Stonevale, two warriors, Rok and Papyra, are chosen for a duel that determines the fate of their tribes for the next century. The arena, known as Scissoria, is where each move carries weight and consequences.
-- **[The Scrolls of Eldoria](./Adventures/Agent/2-Intermediate/The-Scrolls-of-Eldoria-Agent.md)** - In the enchanted land of Eldoria, ancient scrolls contain the secrets of the universe. These scrolls, however, were scattered and protected by the Elders using powerful spells. These spells concealed the secrets within the scrolls, adding layers of misleading information to deter prying eyes. Over time, these scrolls were digitized and stored in the Great Eldorian Library, accessible only through the Eldorian Web of Knowledge.
-
-#### Advanced Adventures
-
-- **[The Gridlock Arena of Mythos](./Adventures/Agent/3-Advanced/The-Gridlock-Arena-of-Mythos-Agent.md)** - In the mystical land of Mythos, creatures from various realms come together to battle in the Gridlock Arena, a chess-like grid where strategy, power, and cunning are tested. Each creature has its unique move, power, and strategy.
-- **[The Knowledge Cartographer (Agent + MCP)](./Adventures/Agent/3-Advanced/The-Knowledge-Cartographer-Agent-MCP.md)** - In the vast digital expanse of the Akashic Archives, ancient knowledge fragments are scattered across countless web domains. As a Knowledge Cartographer, you'll build a system that combines web scraping with intelligent knowledge organization using GitHub Copilot Agent Mode and MCP (Model Context Protocol) tools.
+- **[The Magical Forest of Algora](./Adventures/Agent/Player-2-Parsing-Data-and-Systems/The-Magical-Forest-of-Algora-Agent.md)** - Deep within the enchanted Forest of Algora, two mystical creatures, the Lox and the Faelis, perform a sacred dance every millennium. This dance is not just for celebration but is a ritual to bring balance to the forest.
+- **[The Scrolls of Eldoria](./Adventures/Agent/Player-2-Parsing-Data-and-Systems/The-Scrolls-of-Eldoria-Agent.md)** - In the enchanted land of Eldoria, ancient scrolls contain the secrets of the universe. These scrolls, however, were scattered and protected by the Elders using powerful spells. These spells concealed the secrets within the scrolls, adding layers of misleading information to deter prying eyes. Over time, these scrolls were digitized and stored in the Great Eldorian Library, accessible only through the Eldorian Web of Knowledge.
+- **[The Command Center of Stellaris (Custom Agent Chat Mode)](./Adventures/Agent/Player-2-Parsing-Data-and-Systems/The-Command-Center-of-Stellaris-Agent.md)** - In the galaxy of Stellaris, the Galactic Command Center coordinates missions across star systems using expert AI commanders. A recent upgrade enables custom command protocols, letting commanders activate mission-specific modes with advanced tools and guidance for any challenge.
+- **[The Knowledge Cartographer (Agent + MCP)](./Adventures/Agent/Player-2-Parsing-Data-and-Systems/The-Knowledge-Cartographer-Agent-MCP.md)** - In the vast digital expanse of the Akashic Archives, ancient knowledge fragments are scattered across countless web domains. As a Knowledge Cartographer, you'll build a system that combines web scraping with intelligent knowledge organization using GitHub Copilot Agent Mode and MCP (Model Context Protocol) tools.
 
 ---
 
